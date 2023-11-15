@@ -1,0 +1,18 @@
+/* Your existing CSS for the header and navigation can be reused */
+
+section h2 {
+    font-size: 24px;
+}
+
+/* Add custom styles for your portfolio section */
+#portfolio {
+    background-color:black;
+    padding: 40px 0;
+}
+
+#portfolio h2 {
+    text-align: center;
+    color: #333;
+}
+
+/* Add more CSS styles for your projects and skills sections as needed */
